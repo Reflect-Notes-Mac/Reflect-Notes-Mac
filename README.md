@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://reflect.app/images/icon.png" width="100" alt="Reflect Notes icon"/>
+  <img src="https://images.ctfassets.net/fcmhu5qfg1dk/13bnQIurN54WbBSeFtc4Vz/1b1a99e7bfc3cf5a0e772e1a4ac67d39/q-76ac7eee.png" width="100" alt="Reflect Notes icon"/>
 </p>
 
 <h1 align="center">Reflect Notes for Mac</h1>
@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://reflect.app/images/screenshot-hero.jpg" alt="Reflect Notes — macOS networked note-taking screenshot" width="780"/>
+  <img src="https://substack-post-media.s3.amazonaws.com/public/images/98b44da1-e805-4e34-b138-0ff3feb7c47c_2966x2002.png" alt="Reflect Notes — macOS networked note-taking screenshot" width="780"/>
 </p>
 
 ---
